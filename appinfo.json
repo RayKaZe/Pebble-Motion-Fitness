@@ -1,0 +1,49 @@
+{
+    "appKeys": {
+        "KEY_GO": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "jonas.hou@live.de",
+    "longName": "Motion Fitness",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/imagine2.ttf",
+                "name": "IMAGINE_26",
+                "type": "font"
+            },
+            {
+                "file": "fonts/imagine.ttf",
+                "name": "IMAGINE_54",
+                "type": "font"
+            },
+            {
+                "file": "images/Down.png",
+                "name": "DOWN",
+                "type": "png"
+            },
+            {
+                "file": "images/Up.png",
+                "name": "UP",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Motion Fitness",
+    "uuid": "33fc0913-56fd-4bcb-ba00-51d0de28bfe3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
